@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+
+hr {
+    border-color: red;
+  }
+body{
+    background-image: url(фон.png);
+    background-repeat: repeat;
+}
